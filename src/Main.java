@@ -17,8 +17,8 @@ public class Main {
         // --- TODO: Step 4 ---
         // Print the details to the console using your getter methods
         System.out.println("--- Student Enrollment List ---");
-        System.out.println("Student Name: " + student1.getName());
-        System.out.println("Student Id: " + student1.getStudentId());
+        // System.out.println("Student Name: " + student1.getName());
+        // System.out.println("Student Id: " + student1.getStudentId());
         System.out.println("Student Name: " + student2.getName());
         System.out.println("Student Id: " + student2.getStudentId());
 
